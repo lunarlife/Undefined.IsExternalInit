@@ -12,6 +12,8 @@
         <RepositoryUrl>https://github.com/lunarlife/Undefined.IsExternalInit</RepositoryUrl>
         <RepositoryType>https://github.com/lunarlife/Undefined.IsExternalInit</RepositoryType>
         <PackageTags>externalinit init isexternalinit</PackageTags>
+        <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
